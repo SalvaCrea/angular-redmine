@@ -1,5 +1,7 @@
 # RedmineAngular
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/cd10afdb7f1b4098a2c5fcedbade7939)](https://app.codacy.com/manual/SalvaCrea/angular-redmine?utm_source=github.com&utm_medium=referral&utm_content=SalvaCrea/angular-redmine&utm_campaign=Badge_Grade_Dashboard)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.23.
 
 ## Development server
